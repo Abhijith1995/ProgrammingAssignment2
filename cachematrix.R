@@ -37,7 +37,6 @@
 	}
 
 	#The cachesolve function returns the inverse of an input matrix.
-    #It uses the cached matrix if possible
 	#Input :  A matrix
 	#Output : Inverse of given matrix
 
